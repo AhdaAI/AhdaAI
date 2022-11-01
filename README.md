@@ -5,6 +5,7 @@ A random person who likes to learn programming
 
 - Python
 - JavaScript
+- Node.js
 - C++
 
 <!---
