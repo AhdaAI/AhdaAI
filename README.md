@@ -6,7 +6,6 @@ A random person who likes to learn programming
 - Python
 - JavaScript
 - Node.js
-- C++
 
 <!---
 RazorHex/RazorHex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
