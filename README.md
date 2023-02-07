@@ -1,4 +1,4 @@
-# RazorHex
+# Ahda Akmalul Ilmi
 A random person who likes to learn programming
 
 ## Interested in
