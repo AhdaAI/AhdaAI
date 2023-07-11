@@ -11,6 +11,8 @@ A random person who likes to learn programming.
 - Node.js
 - Java
 - SQL
+- HTML
+- CSS
 
 <!---
 RazorHex/RazorHex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
