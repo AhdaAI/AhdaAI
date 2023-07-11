@@ -1,11 +1,16 @@
 # Ahda Akmalul Ilmi
-A random person who likes to learn programming
+A random person who likes to learn programming.
 
-## Interested in
+# Where to find me
+[Linkedin](https://www.linkedin.com/in/ahda-akmalul-ilmi/)
+
+## Known Programming Language
 
 - Python
 - JavaScript
 - Node.js
+- Java
+- SQL
 
 <!---
 RazorHex/RazorHex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
