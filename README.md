@@ -1,7 +1,7 @@
 # Ahda Akmalul Ilmi
 A random person who likes to learn programming.
 
-# Where to find me
+## Where to find me
 [Linkedin](https://www.linkedin.com/in/ahda-akmalul-ilmi/)
 
 ## Known Programming Language
