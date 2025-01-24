@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 _Yesterday is history, Tomorrow is a mystery, but Today is a gift. That is why it is called the present_. - **Oogway**
 
-- 🌱 Currently learning **Machine Learning**.
+- 🌱 Currently improving **GCP**.
 - 💬 Feel free to ask me about **anything**.
 
 ## Where to find me
